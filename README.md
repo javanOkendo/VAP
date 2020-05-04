@@ -89,7 +89,7 @@ The downstream step performs the following:
    1.   Mapping Quality (MQ) < 40
    1.   SnpCluster (3 SNPs in 35bp)
    1.   Mann-Whitney Rank-Sum (MQRankSum) < -12.5
-1. Exploratory statistics of all variant files.
+1. Exploratory statistics of all variant files..
 
 
 ## To run workflow
