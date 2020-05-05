@@ -13,8 +13,8 @@ Adetunji MO, Lamont SJ, Abasht B, Schmidt CJ (2019) Variant analysis pipeline fo
 Bioinformatic tools are grouped based on sequencing reads
 
 ### Genomic Sequencing 
--[x] BOWTIE2
--[x] BWA
+- [x] BOWTIE2
+- [x] BWA
 
 ### Transcriptomic Sequencing
 * TOPHAT2
